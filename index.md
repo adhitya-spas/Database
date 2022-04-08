@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome Name for Database
 
-You can use the [editor on GitHub](https://github.com/adhitya-spas/Database/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a page created to showcase the .... Work from [research paper](https://www.youtube.com/watch?v=dQw4w9WgXcQ) is showcased in this site...TELL ME WHAT TO PUT, I'M STALLING HERE !!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Abstract
 
-### Markdown
+Maybe lets put abstract here?? Maybe, not sure ... Meh! This is tough!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Reference
 
-```markdown
-Syntax highlighted code block
+We would like to acknowledge .... and the data was taken from ......
 
-# Header 1
-## Header 2
-### Header 3
+1. Meh meh- [Name of reference](https://www.youtube.com/watch?v=L_jWHffIx5E)
+2. Bleh bleh- [Name of reference](https://www.youtube.com/watch?v=L_jWHffIx5E)
 
-- Bulleted
-- List
+### Authors
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/adhitya-spas/Database/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Any queries or questions, feel free to email us.
+-**Adhitya Shreyas SP**, _adhityashreyas.p@gmail.com_
+-**Prateek Boga**, _prateekboga9799@gmail.com_
+-**Amaria Bonsi Navis**, _amariabonsi@gmail.com_
