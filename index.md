@@ -1,3 +1,9 @@
+---
+layout: default
+title: Welcome Page
+nav_order: 1
+---
+
 ## Welcome Name for Database
 
 This is a page created to showcase the .... Work from [research paper](https://www.youtube.com/watch?v=dQw4w9WgXcQ) is showcased in this site...TELL ME WHAT TO PUT, I'M STALLING HERE !!
