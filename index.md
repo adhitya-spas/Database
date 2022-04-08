@@ -16,6 +16,6 @@ We would like to acknowledge .... and the data was taken from ......
 ### Authors
 
 Any queries or questions, feel free to email us.
--**Adhitya Shreyas SP**, _adhityashreyas.p@gmail.com_
--**Prateek Boga**, _prateekboga9799@gmail.com_
--**Amaria Bonsi Navis**, _amariabonsi@gmail.com_
+- **Adhitya Shreyas SP**, _adhityashreyas.p@gmail.com_
+- **Prateek Boga**, _prateekboga9799@gmail.com_
+- **Amaria Bonsi Navis**, _amariabonsi@gmail.com_
