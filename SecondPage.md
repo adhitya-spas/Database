@@ -6,4 +6,4 @@ nav_order: 2
 
 # Dark Matter Mass Decompostion
 
-In the sub menu, there will be different datasets, maybe or we can just have them linked below.....
+Listed below are the galaxies that were taken up in the research. Under each subsection, a display of the plot, properties and data for each will be presented. The link to download the data will provided at the bottom of the corresponding page.  
