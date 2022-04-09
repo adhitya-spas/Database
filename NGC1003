@@ -1,0 +1,12 @@
+---
+title: NGC1003
+parent: Mass Decomposition
+has_children: false
+nav_order: 2
+---
+
+# NGC1003
+
+| Galaxy        | Rho0          | Rnfw | Sig0        | Sigb         | Rdisc | Rbulge        |
+|:-------------|:------------------|:------|:------|:------|:------|:------|
+|NGC 1003 |	4.99999E+12 |	7.364937045 |	1.3E+15	| 35998793.79	|0.149805796	| 0.1	 |1.4507|
