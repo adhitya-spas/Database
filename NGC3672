@@ -1,0 +1,20 @@
+---
+title: NGC3672
+parent: Mass Decomposition
+has_children: false
+nav_order: 1
+---
+
+# NGC3672
+
+|--|--|
+| Galaxy    | NGC 3672	 |
+| Rho0     |	28000000000		   |   
+| Rnfw  | 52.9999968	  |
+| Sig0     | 4.3E+13		 |
+| Sigb     | 1E+12		|  
+| Rdisc  | 3.6133261		|   
+| Rbulge      | 0.100000002	 | 
+| ChiSq | 1.4866 |
+
+![](/assets/plot/NGC3672.jpg)
