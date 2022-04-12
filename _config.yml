@@ -1,6 +1,7 @@
 remote_theme: just-the-docs/just-the-docs
 title: Dark Matter Decomposition
 #logo: "/assets/images/just-the-docs.png"
+color_scheme: dark
 
 # Enable or disable the site search
 # Supports true (default) or false
