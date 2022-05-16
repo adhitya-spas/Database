@@ -18,6 +18,6 @@ We would like to acknowledge .... and the data was taken from ......
 ### Authors
 
 Any queries or questions, feel free to email us.
-- **Adhitya Shreyas SP**, _adhityashreyas.p@gmail.com_ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+- **Adhitya Shreyas SP**, _adhityashreyas.p@gmail.com_ <span class="fs-3"> [Tiny ass button](http://example.com/){: .btn } </span>
 - **Prateek Boga**, _prateekboga9799@gmail.com_
 - **Amaria Bonsi Navis**, _amariabonsi@gmail.com_
