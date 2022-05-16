@@ -18,6 +18,6 @@ We would like to acknowledge .... and the data was taken from ......
 ### Authors
 
 Any queries or questions, feel free to email us.
-- **Adhitya Shreyas SP**, _adhityashreyas.p@gmail.com_ <span class="fs-1"> [Tiny ass button](http://example.com/){: .btn } </span>
-- **Prateek Boga**, _prateekboga9799@gmail.com_
-- **Amaria Bonsi Navis**, _amariabonsi@gmail.com_
+- **Adhitya Shreyas SP**, _adhityashreyas.p@gmail.com_, <span class="fs-1"> [LinkedIn](https://www.linkedin.com/in/adhityaspas/){: .btn } </span>
+- **Prateek Boga**, _prateekboga9799@gmail.com_, <span class="fs-1"> [LinkedIn](https://www.linkedin.com/in/prateek-boga/){: .btn } </span>, <span class="fs-1"> [Google Scholar](https://scholar.google.com/citations?user=vM4UefwAAAAJ&hl=en&oi=ao){: .btn } </span>
+- **Amaria Bonsi Navis**, _amariabonsi@gmail.com_, <span class="fs-1"> [LinkedIn](https://www.linkedin.com/in/amaria-bonsi-navis-007b521b1/){: .btn } </span>
