@@ -4,16 +4,16 @@ title: Welcome Page
 nav_order: 1
 ---
 
-## Welcome Name for Database
+## Welcome Nerds
 
 This is a page created to showcase the mass decomposition of galaxy data. This database contains 34 spiral galaxies (Sa, Sb, Sc). The decomposition follows the work from our paper, which is yet to be published. 
 
 ### Reference
 
-We would like to acknowledge .... and the data was taken from ......
+The authors acknowledge the contributions of Ms. Anisha during the initial stages of the research and sincerely thank Mr. Sundar M. N. (PhD.) and Dr. Pavan Kumar for the inputs. The authors acknowledge that the initial stages of this work were done during the Junior Research Fellowship (remote) at Tod’Aers ´ Research Institute, Togo. Data for processing was taken from:
+1. Y Sofue, Y Tutui, M Honma, A Tomita, T Takamiya, J Koda and Y Takeda The Astrophysical Journal Vol 523 p 136 (1999)
+2. K Fathi, J E Beckman, N Pinol-Ferrer, N Hernandez, I Martinez-Valpuesta and C Carignan The Astrophysical Journal Vol 704 p 1657 (2009)
 
-1. Meh meh- [Name of reference](https://www.youtube.com/watch?v=L_jWHffIx5E)
-2. Bleh bleh- [Name of reference](https://www.youtube.com/watch?v=L_jWHffIx5E)
 
 ### Authors
 
